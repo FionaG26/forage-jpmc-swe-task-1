@@ -37,10 +37,15 @@ if you are unfamiliar with forking, cloning, or git in general, take a look at t
 
 ## Here are some resources to help you
 https://realpython.com/installing-python/
+
 https://git-scm.com/book/en/v2
+
 https://docs.github.com/en/get-started/quickstart/fork-a-repo
+
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
+
 https://perspective.finos.org/
+
 
 ## Making changes
 When you’re in a work environment, you’ll usually receive tasks in the form of engineering tickets. Here is an example of what this task looks like in the form of an engineering ticket
